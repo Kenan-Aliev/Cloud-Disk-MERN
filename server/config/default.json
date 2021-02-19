@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://Kenan:K2VRRTZFQ5QJ@cluster0.lgrbc.mongodb.net/example?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath":"D:\\mern-cloud-disk\\MERN-cloud-disk\\server\\files"
+}
